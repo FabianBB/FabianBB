@@ -3,11 +3,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I share my journey of becoming a front-end-developer :rofl:
 
-- 🔭 &nbsp;I’m currently working on building my front-end-career 💻:
-- 🌱 &nbsp;I’m currently learning HTML.CSS.JavaScript
-- 💬 &nbsp;Ask me about anything related to Sport/Music/Gaming/Design
-- 📫 &nbsp;How to reach me: [@rezajaberdev](https://twitter.com/rezajaberdev)</a>
-- 👨‍💻 &nbsp;Read more about my projects at [rezajaber.github.io](https://github.com/rezajaber/rezajaber.github.io) or [@rezajaber](https://www.frontendmentor.io/profile/rezajaber/solutions)
+- 🔭 &nbsp;I’m currently working on building my Data Science career 💻:
+- 🌱 &nbsp;I’m currently studying Data Science and AI at Maastricht University
+- 💬 &nbsp;Ask me about anything related to Data Science and AI
 
 <h2></h2>
 
