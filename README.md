@@ -1,11 +1,11 @@
 <h2 align="center">Data Daddy and AI Pimp</h2>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
-This is the place where I share my journey of becoming a Data Scientist :rofl:
+This is the place where I share my journey of becoming a Pandas Function Caller :rofl:
 
 - 🔭 &nbsp;I’m currently working on my bachelor thesis on TRP 💻:
 - 🌱 &nbsp;I’m currently studying Data Science and AI at Maastricht University
-- 💬 &nbsp;Ask me about anything related to Data Science and AI
+- 💬 &nbsp;Ask me about anything related to df.apply()
 
 <h2></h2>
 
