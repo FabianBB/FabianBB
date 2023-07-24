@@ -3,8 +3,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
 This is the place where I share my journey of becoming a Full Stack Data Scientist :rofl:
 
-- 🔭 &nbsp;I’m currently working on my bachelor thesis on TRP 💻:
-- 🌱 &nbsp;I’m currently studying Data Science and AI at Maastricht University
+- 🔭 &nbsp;I’m currently working on Data💻:
+- 🌱 &nbsp;I’m currently studying Econometrics
 - 💬 &nbsp;Ask me about anything related to df.apply()
 
 <h2></h2>
